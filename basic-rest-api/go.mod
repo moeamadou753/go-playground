@@ -1,4 +1,4 @@
-module worker/ripper-service-web
+module worker/basic-rest-api
 
 go 1.19
 
